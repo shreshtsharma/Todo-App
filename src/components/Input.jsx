@@ -43,6 +43,7 @@ function Input() {
                 placeholder='Enter your challenge'
                 onChange={(e)=>setTask(e.target.value)}
                 className='bg-[#ffffff] p-2 rounded-l-lg  text-black w-3/4'
+                autoComplete='off'
             />
             <button className="bg-black text-white rounded-r-lg p-2" type='submit'>Add</button>
 
