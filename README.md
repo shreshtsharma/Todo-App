@@ -4,4 +4,4 @@
 
 ## This is the deployed link of the project
 
-https://vercel.com/shresht-sharmas-projects/todo-app/C3cPn75Q3pgUuKRpV53qGjU8f1E4
+https://todo-19oxjwjm8-shresht-sharmas-projects.vercel.app/
